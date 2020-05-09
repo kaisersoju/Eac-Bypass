@@ -1,8 +1,3 @@
-You will need CrytoLib i will not include that and this will get detected once facepunch send it in so enjoy i guess!!!
-███████╗ █████╗  ██████╗███████╗██████╗ ██╗   ██╗███╗   ██╗ ██████╗██╗  ██╗
-██╔════╝██╔══██╗██╔════╝██╔════╝██╔══██╗██║   ██║████╗  ██║██╔════╝██║  ██║
-█████╗  ███████║██║     █████╗  ██████╔╝██║   ██║██╔██╗ ██║██║     ███████║
-██╔══╝  ██╔══██║██║     ██╔══╝  ██╔═══╝ ██║   ██║██║╚██╗██║██║     ██╔══██║
-██║     ██║  ██║╚██████╗███████╗██║     ╚██████╔╝██║ ╚████║╚██████╗██║  ██║
-╚═╝     ╚═╝  ╚═╝ ╚═════╝╚══════╝╚═╝      ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝╚═╝  ╚═╝Q
+You will need CrytoLib It's not included this will get detected probaly soon when someone sends it to EAC.
+
                                                                            
